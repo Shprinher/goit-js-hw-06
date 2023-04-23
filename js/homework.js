@@ -159,3 +159,5 @@ changeColorBtn.addEventListener("click", () => {
   body.style.backgroundColor = newColor;
   colorSpan.textContent = newColor;
 });
+// ___________________________________________________________
+// завдання 10
